@@ -20,7 +20,7 @@ body {
 #my_pic_size {
     width: 70%;
     border-radius: 50%;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    box-shadow: 5px 5px 18px 5px lightskyblue;
 }
 
 /* LINKS */
